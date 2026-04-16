@@ -71,6 +71,7 @@ for (let i = 1; i < responseTimes.length; i++) {
     if(responseTimes[i] > avg) {
         count++;
     }
+    
 }
 console.log("count::", count);
 // const responseTimes = [100, 200, 150, 300];
