@@ -73,7 +73,6 @@ for (let i = 1; i < responseTimes.length; i++) {
     }
 }
 console.log("count::", count);
-console.log("sum::", sum);
 // const responseTimes = [100, 200, 150, 300];
 // let count = 0;
 
