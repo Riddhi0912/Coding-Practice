@@ -1,0 +1,203 @@
+ATS KEYWORD LIST FOR BACKEND SOFTWARE ENGINEER ROLES
+=====================================================
+
+CORE PROGRAMMING LANGUAGES:
+- PHP 7.4, PHP 8.x, PHP 8.3
+- JavaScript ES6+
+- Node.js 16, Node.js 18, Node.js 20
+- SQL
+- TypeScript
+
+BACKEND FRAMEWORKS & TECHNOLOGIES:
+- Symfony 4, Symfony 5, Symfony 6, Symfony 7
+- Pimcore 5, Pimcore 10, Pimcore 11, Pimcore 12
+- Express.js
+- Laravel
+- Symfony Messenger
+- Symfony Bundles
+
+DATABASE SYSTEMS:
+- MySQL 5.7, MySQL 8.0
+- MariaDB
+- MongoDB
+- PostgreSQL
+- Redis
+- OpenSearch
+- Elasticsearch
+
+CLOUD PLATFORMS & SERVICES:
+- AWS S3
+- AWS EC2
+- AWS Lambda
+- AWS RDS
+- Azure Blob Storage
+- Azure Functions
+- Azure SQL Database
+- CloudWatch
+
+API & ARCHITECTURE PATTERNS:
+- RESTful API
+- REST API
+- GraphQL
+- Microservices
+- Microservices Architecture
+- Event-Driven Architecture
+- MVC Architecture
+- API Design
+- API Gateway Pattern
+- Service Discovery
+
+MESSAGE QUEUES & ASYNC PROCESSING:
+- RabbitMQ
+- Kafka
+- Redis Pub/Sub
+- Message Queue
+- Asynchronous Processing
+- Event Emitters
+- Pub/Sub Patterns
+- Background Jobs
+- Worker Threads
+
+DEVOPS & CI/CD:
+- Docker
+- Docker Compose
+- Kubernetes
+- Git
+- GitLab CI
+- GitLab CI/CD
+- GitHub Actions
+- Jenkins
+- CI/CD Pipelines
+- Automated Testing
+- Deployment Automation
+- Container Orchestration
+
+FRONTEND TECHNOLOGIES:
+- Vue.js 2, Vue.js 3
+- React.js
+- Vuex
+- Redux
+- HTML5
+- CSS3
+- Bootstrap
+- Single Page Application (SPA)
+- State Management
+
+TESTING & QUALITY:
+- PHPUnit
+- Jest
+- Unit Testing
+- Integration Testing
+- Test-Driven Development (TDD)
+- Regression Testing
+- Code Review
+
+SECURITY & AUTHENTICATION:
+- JWT (JSON Web Token)
+- OAuth 2.0
+- Role-Based Access Control (RBAC)
+- bcrypt
+- CSRF Protection
+- Session Management
+- PCI DSS Compliance
+
+PERFORMANCE OPTIMIZATION:
+- Database Indexing
+- Query Optimization
+- Caching Strategy
+- Redis Caching
+- Varnish
+- CDN Integration
+- Lazy Loading
+- Pagination
+- Performance Monitoring
+- Code Profiling
+
+DATA PROCESSING:
+- ETL (Extract Transform Load)
+- Data Pipeline
+- Data Synchronization
+- CSV Processing
+- XML Processing
+- Batch Processing
+- Data Migration
+- Data Validation
+- Data Transformation
+
+MONITORING & LOGGING:
+- ELK Stack
+- Elasticsearch
+- Logstash
+- Kibana
+- Error Tracking
+- Alerting
+- Production Monitoring
+
+PAYMENT GATEWAYS:
+- Stripe
+- PayPal
+- Razorpay
+- Payment Processing
+- Webhook Handling
+
+ENTERPRISE SYSTEMS:
+- SAP ERP
+- Salesforce CRM
+- Magento
+- Product Information Management (PIM)
+- Digital Asset Management (DAM)
+- Content Management System (CMS)
+
+PROTOCOLS & TECHNOLOGIES:
+- WebSocket
+- Server-Sent Events (SSE)
+- CRON Jobs
+- HTTPS
+- Load Balancer
+- Auto-Scaling
+
+METHODOLOGIES:
+- Agile
+- Scrum
+- Sprint Planning
+- Daily Standups
+- Code Review
+- SOLID Principles
+- Design Patterns
+- OOP (Object-Oriented Programming)
+
+TOOLS:
+- VS Code
+- Postman
+- npm
+- Composer
+- Webpack
+- Babel
+- ESLint
+- Swagger
+- OpenAPI
+
+SOFT SKILLS KEYWORDS:
+- Cross-Functional Teams
+- Mentoring
+- Problem Solving
+- Technical Leadership
+- Team Collaboration
+- Code Quality
+- Best Practices
+- Scalability
+- Performance
+- Optimization
+
+QUANTIFIABLE METRICS USED:
+- 50,000+ active users
+- 10,000+ SKUs/products
+- 60% performance improvement
+- 40% reduced deployment time
+- 99.9% uptime
+- 100,000+ messages daily
+- 1M+ monthly active users
+- 25+ API endpoints
+- 2.5+ years experience
+- 20+ reusable commands
+- 15+ API endpoints

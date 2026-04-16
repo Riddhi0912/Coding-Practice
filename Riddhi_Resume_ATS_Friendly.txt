@@ -1,0 +1,74 @@
+RIDDHI MALVIYA
++91 955 598 4973 | riddhimalviya758@gmail.com
+LinkedIn: linkedin.com/in/riddhi-malviya | GitLab: gitlab.com/riddhimtt
+Location: Noida, Uttar Pradesh, India
+
+PROFESSIONAL SUMMARY
+Backend Software Engineer with 2.5+ years of experience building web applications using PHP, Symfony, Pimcore, Vue.js, and MySQL. Proven expertise in developing RESTful APIs, integrating frontend with backend systems, and deploying applications using Docker. Strong background in PIM systems, data migration, and cloud storage integration with AWS S3 and Azure Blob Storage.
+
+TECHNICAL SKILLS
+Programming Languages: PHP, JavaScript, SQL
+Frameworks & CMS: Symfony 6/7, Pimcore 10/11/12, Vue.js 2/3, React.js, Vuex
+Frontend Technologies: Vue.js, React.js, HTML, CSS, JavaScript
+Databases: MySQL, MariaDB, OpenSearch
+Cloud & Storage: AWS S3, Azure Blob Storage
+DevOps & Tools: Docker, Git, GitLab, GitHub, VS Code
+APIs: RESTful API Development, API Integration
+Other: Symfony Messenger, Async Processing, PDF Generation, CSV Import, Data Migration
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+MindsTask Technologies, Noida, Uttar Pradesh
+May 2023 - Present
+
+- Develop and maintain backend and frontend solutions for IGT gaming portals including Casino Lounge and iLottery platforms
+- Design and implement RESTful APIs using Symfony framework for lottery games, draw games, and promotional content management
+- Build responsive frontend components using Vue.js 2 and integrate with Pimcore backend using Vuex for state management
+- Write complex MySQL queries and optimize database schemas based on business requirements
+- Configure and manage Docker containers for local development environments and production deployments
+- Work on Rewire PIM system for lighting products managing 10,000+ product items
+- Implement asynchronous processing using Symfony Messenger for bulk operations and data imports
+- Integrate Azure Blob Storage for asset management and OpenSearch for advanced product search functionality
+- Execute Pimcore 5 to 11 migration projects maintaining both legacy and modern code structures
+- Develop console commands for automated data imports from CSV files stored in AWS S3
+- Generate dynamic PDF product datasheets using Symfony and Pimcore
+
+PROJECTS
+
+IGT Gaming Websites
+Technologies: Pimcore 10, Symfony, Vue.js 2, MySQL, Docker, AWS S3
+- Developed backend RESTful APIs for lottery games, draw games, and promotional content management system
+- Integrated Vue.js frontend components with Pimcore backend using Vuex for centralized state management
+- Implemented user authentication and authorization workflows
+- Optimized database queries for improved application performance
+
+Sicame Energy Platform
+Technologies: Pimcore 11, Symfony 6, MySQL, AWS S3
+- Built automated data import console commands for Catalog, Fittings, and Safety equipment using CSV files from AWS S3
+- Implemented PDF generation functionality for product datasheets
+- Successfully migrated platform from Pimcore 5 to Pimcore 11 while maintaining legacy code compatibility
+- Designed and optimized database schema for energy sector product management
+
+Rewire - Lighting Product PIM System
+Technologies: Pimcore 12, Symfony 7, PHP 8.3, Azure Blob Storage, OpenSearch
+- Architected and developed comprehensive PIM system managing 10,000+ lighting product items
+- Implemented asynchronous processing using Symfony Messenger for bulk product operations
+- Integrated Azure Blob Storage for scalable asset management
+- Implemented OpenSearch for advanced product search and filtering capabilities
+- Optimized system performance for handling large product catalogs
+
+EDUCATION
+
+Master of Computer Application
+JS University
+Graduated: 2025
+
+Bachelor of Computer Application
+Allahabad State University
+2019 - 2022
+
+CERTIFICATIONS & INTERESTS
+- Self-taught Tabla enthusiast
+- Passionate about backend architecture and writing clean, maintainable code
+- Continuous learner of software design patterns and best practices

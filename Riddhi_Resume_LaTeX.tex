@@ -1,0 +1,150 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{RIDDHI MALVIYA} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{+91 955 598 4973 \\ Noida, Uttar Pradesh}
+\address{\href{mailto:riddhimalviya758@gmail.com}{riddhimalviya758@gmail.com} \\ \href{https://www.linkedin.com/in/riddhi-malviya}{www.linkedin.com/in/riddhi-malviya} \\ \href{https://gitlab.com/riddhimtt}{gitlab.com/riddhimtt}}  %
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL SUMMARY}
+
+{Backend Software Engineer with 2.5+ years experience developing web applications using PHP, Symfony, Pimcore, Node.js, Express.js, Vue.js, React.js, MySQL, and MongoDB. Specialized in building RESTful APIs, microservices, and cloud solutions on AWS and Azure. Delivered Product Information Management systems, e-commerce platforms, and gaming applications. Improved database performance 60 percent and reduced deployment time 40 percent through optimization and automation.}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Master of Computer Application}, JS University \hfill {2025}\\
+{\bf Bachelor of Computer Application}, Allahabad State University \hfill {2019 - 2022}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHNICAL STRENGTHS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Languages & PHP 7.4/8.x, JavaScript ES6+, Node.js 16/18/20, SQL, TypeScript\\
+Backend & Symfony 4/5/6/7, Pimcore 5/10/11/12, Express.js, REST API, GraphQL\\
+Frontend & Vue.js 2/3, React.js, Vuex, Redux, jQuery, HTML5, CSS3, Bootstrap\\
+Databases & MySQL 5.7/8.0, MariaDB, MongoDB, OpenSearch, Elasticsearch, Redis\\
+Cloud & AWS S3, Azure (Blob Storage, Functions)\\
+DevOps & Docker, Docker Compose, Git, GitLab CI, GitHub Actions\\
+Tools & VS Code, Postman, npm, Composer, Webpack, Babel, ESLint, PHPUnit\\
+Architecture & Microservices, REST API, MVC, OOP, Design Patterns, SOLID Principles\\
+Messaging & RabbitMQ, Symfony Messenger, WebSocket\\
+Testing & PHPUnit, Unit Testing, Integration Testing\\
+Other & Agile, Scrum, Jira, Linux, Apache, Nginx, Git Workflow, Code Review\\
+\end{tabular}\\
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Software Engineer (Backend Developer)} \hfill May 2023 - Present\\
+MindsTask Technologies \hfill \textit{Noida, Uttar Pradesh, India}
+ \begin{itemize}
+    \itemsep -3pt {}
+     \item Developed full-stack web applications for IGT gaming portals (Casino Lounge, iLottery) serving 50,000+ active users using Pimcore 10, Symfony 6, Vue.js 2, Node.js 18, and MySQL 8.0
+     \item Built RESTful APIs using Symfony 6/7, Node.js 18, Express.js, and PHP 8.x for lottery games, draw games, payment processing, and content management
+     \item Developed microservices with Node.js and Express.js for real-time data processing, third-party API integrations, payment gateways (Stripe, PayPal), and webhook handling
+     \item Built responsive single-page applications using Vue.js 2/3 and React.js 17 with state management through Vuex and Redux, consuming RESTful APIs and GraphQL endpoints
+     \item Improved database performance 60 percent by optimizing SQL queries, implementing database indexing, adding query caching, and designing normalized schemas for MySQL 8.0, MariaDB, and MongoDB
+     \item Established CI/CD pipelines using Docker, Docker Compose, and GitLab CI/CD with automated testing reducing deployment time 40 percent and eliminating manual errors
+     \item Led backend development of Rewire Product Information Management (PIM) system managing 10,000+ product SKUs using Pimcore 12, Symfony 7, PHP 8.3, Azure Cloud, and OpenSearch achieving 99.9 percent system uptime
+     \item Implemented asynchronous job processing with RabbitMQ, Symfony Messenger, and Node.js worker threads for bulk imports, ETL operations, and background tasks
+     \item Integrated cloud services including AWS S3, AWS EC2, Azure Blob Storage, and OpenSearch for asset management, CDN delivery, and full-text search
+     \item Worked with cross-functional teams including frontend developers, QA engineers, and product managers using Agile/Scrum with sprint planning and daily standups. Conducted code reviews via GitLab and mentored 2 junior developers
+ \end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROJECTS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+\vspace{-1.25em}
+
+\item \textbf{IGT Gaming Portal - Enterprise Gaming Platform.} {Tech Stack: Pimcore 10, Symfony 6, Node.js 18, Express.js, Vue.js 2, MySQL 8.0, Docker, AWS (S3, EC2), Redis, JWT, OAuth 2.0}
+\begin{itemize}
+    \itemsep -3pt {}
+    \item Developed 25+ RESTful API endpoints and scalable microservices architecture for lottery games, instant win games, draw games, user management, and promotional content management system (CMS)
+    \item Built real-time game data processing using Node.js 18, Express.js, WebSocket protocol, and Server-Sent Events (SSE) enabling live score updates and notifications for 50,000+ concurrent users
+    \item Implemented security features including JWT authentication, OAuth 2.0 authorization, role-based access control, session management, bcrypt password hashing, and CSRF protection
+    \item Integrated multiple payment gateway APIs (Stripe, PayPal, Razorpay) for secure transaction processing, refunds, webhooks, and PCI DSS compliance with comprehensive error handling and logging
+    \item Optimized MySQL database queries using indexing strategies, query optimization, and implemented multi-layer Redis caching (page cache, data cache, session storage) resulting in 50 percent faster page load times and improved user experience
+    \item Deployed scalable cloud infrastructure using Docker containerization, Docker Compose orchestration, AWS EC2 auto-scaling groups, Elastic Load Balancer (ELB), and CloudWatch monitoring for high availability
+\end{itemize}
+
+\item \textbf{Sicame Energy Platform - B2B Product Catalog.} {Tech Stack: Pimcore 11, Symfony 6, Node.js 16, Express.js, MySQL 8.0, AWS (S3, Lambda), PDF.js, ELK Stack}
+\begin{itemize}
+    \itemsep -3pt {}
+    \item Created automated ETL pipelines processing 50,000+ product records from CSV/XML files in AWS S3 using CRON jobs and AWS Lambda functions
+    \item Developed Node.js microservices with validation, transformation, business rules, and enrichment before MySQL insertion ensuring data integrity
+    \item Implemented PDF generation API using Node.js (PDFKit, Puppeteer) generating 10,000+ product datasheets, specifications, and certificates with custom templates and i18n support
+    \item Created 15+ RESTful API endpoints with Express.js for B2B integrations, ERP synchronization, inventory management, and product catalog updates with API documentation (Swagger/OpenAPI)
+    \item Executed Pimcore migration from version 5 to 11 with zero downtime, database schema migration, backward compatibility, and regression testing
+    \item Implemented monitoring using ELK Stack (Elasticsearch, Logstash, Kibana) for logging, error tracking, performance monitoring, and alerting in production
+\end{itemize}
+
+\item \textbf{Rewire - Enterprise Product Information Management System.} {Tech Stack: Pimcore 12, Symfony 7, PHP 8.3, Node.js 20, Azure Cloud, OpenSearch 2.x, RabbitMQ 3.x, Redis}
+\begin{itemize}
+    \itemsep -3pt {}
+    \item Developed PIM system managing 10,000+ SKUs with multi-language support (English, French, German), multi-channel publishing, version control, and workflow management
+    \item Created distributed microservices with Node.js 20, Express.js, and Docker for data synchronization across SAP ERP, Salesforce CRM, and Magento using APIs and message queues
+    \item Implemented asynchronous message queue system using RabbitMQ 3.x message broker, Symfony Messenger component, and custom message handlers processing 100,000+ messages daily for bulk product imports, exports, price updates, and inventory synchronization
+    \item Designed event-driven architecture with Node.js using event emitters and pub/sub patterns for product updates, stock changes, price modifications, and notifications
+    \item Integrated Azure Blob Storage for Digital Asset Management storing 50,000+ product images, PDFs, and videos, and OpenSearch 2.x for full-text search with filters, facets, and autocomplete
+    \item Optimized application performance through code profiling, query optimization, Redis caching, CDN integration, and lazy loading achieving 30 percent faster search and 40 percent reduced API latency
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL CONTRIBUTIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KEY ACHIEVEMENTS AND TECHNICAL CONTRIBUTIONS}
+\begin{itemize}
+    \item Led Pimcore CMS migrations from version 5 to 11 for 3 projects maintaining backward compatibility, refactoring code, conducting testing, and achieving zero-downtime deployments
+    \item Developed 20+ reusable Symfony console commands and Node.js automation scripts for scheduled data imports, batch processing, CSV/XML parsing from AWS S3, data validation, transformation, and error handling across multiple product categories
+    \item Architected distributed microservices with Node.js, Express.js, Docker, API Gateway pattern, and service discovery for modular backend services
+    \item Developed PDF generation system processing 10,000+ documents monthly using Symfony, Pimcore API, and Node.js (PDFKit, Puppeteer) with templates for datasheets and reports
+    \item Improved database performance by 60 percent through schema optimization, denormalization strategies, composite indexing, query optimization, and connection pooling for MySQL databases serving high-traffic gaming portals with 1M+ monthly active users
+    \item Created event-driven pipelines using Node.js Event Emitter, RabbitMQ, Symfony Messenger, and async workers for data sync, ETL, and webhooks
+    \item Reduced API response time 40 percent by implementing multi-layer caching (Redis, Varnish), query optimization, lazy loading, pagination, and CDN integration
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS AND ACTIVITIES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{INTERESTS}
+\begin{itemize}
+    \item Self-taught Tabla enthusiast with passion for Indian classical music
+    \item Passionate about backend architecture, design patterns, and writing clean, maintainable code
+    \item Continuous learner exploring software engineering best practices and emerging technologies
+\end{itemize}
+
+\end{rSection}
+
+\end{document}

@@ -1,0 +1,124 @@
+RIDDHI MALVIYA
+Email: riddhimalviya758@gmail.com | Phone: +91 955 598 4973
+LinkedIn: linkedin.com/in/riddhi-malviya | GitLab: gitlab.com/riddhimtt
+Location: Noida, Uttar Pradesh, India
+
+PROFESSIONAL SUMMARY
+
+Backend Software Engineer with 2.5+ years of experience building scalable web applications and microservices using PHP, Symfony, Pimcore, Node.js, Express.js, MySQL, and MongoDB. Proven expertise in designing RESTful APIs, implementing event-driven architectures, and deploying cloud-based solutions on AWS and Azure. Delivered measurable improvements including 60% faster database performance and 40% reduced deployment time through optimization and automation.
+
+TECHNICAL SKILLS
+
+Programming Languages: PHP 7.4/8.x, JavaScript ES6+, Node.js 16/18/20, SQL, TypeScript
+Backend Frameworks: Symfony 4/5/6/7, Pimcore 5/10/11/12, Express.js, Laravel
+Frontend Technologies: Vue.js 2/3, React.js, Vuex, Redux, HTML5, CSS3, Bootstrap
+Databases: MySQL 5.7/8.0, MariaDB, MongoDB, PostgreSQL, Redis, OpenSearch, Elasticsearch
+Cloud Platforms: AWS (S3, EC2, Lambda, RDS), Azure (Blob Storage, Functions, SQL Database)
+DevOps and CI/CD: Docker, Docker Compose, Kubernetes, Git, GitLab CI, GitHub Actions, Jenkins
+Message Queues: RabbitMQ, Symfony Messenger, Kafka, Redis Pub/Sub
+Architecture: RESTful APIs, GraphQL, Microservices, Event-Driven Architecture, MVC, OOP
+Testing: PHPUnit, Jest, Unit Testing, Integration Testing, Test-Driven Development
+Tools: VS Code, Postman, npm, Composer, Webpack, Babel, ESLint
+Methodologies: Agile, Scrum, Code Review, API Design, SOLID Principles
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer (Backend Developer)
+MindsTask Technologies | Noida, Uttar Pradesh, India | May 2023 - Present
+
+- Developed full-stack web applications for IGT gaming portals (Casino Lounge, iLottery) serving 50,000+ active users using Pimcore 10, Symfony 6, Vue.js 2, Node.js 18, and MySQL 8.0
+
+- Built RESTful APIs using Symfony 6/7, Node.js 18, Express.js, and PHP 8.x for lottery games, draw games, payment processing, and content management systems
+
+- Developed microservices with Node.js and Express.js for real-time data processing, third-party API integrations, payment gateways (Stripe, PayPal), and webhook handling
+
+- Built responsive single-page applications using Vue.js 2/3 and React.js 17 with state management through Vuex and Redux, consuming RESTful APIs and GraphQL endpoints
+
+- Improved database performance 60% by optimizing SQL queries, implementing database indexing, adding query caching, and designing normalized schemas for MySQL 8.0, MariaDB, and MongoDB
+
+- Established CI/CD pipelines using Docker, Docker Compose, and GitLab CI/CD with automated testing reducing deployment time 40% and eliminating manual errors
+
+- Led backend development of Rewire Product Information Management system managing 10,000+ product SKUs using Pimcore 12, Symfony 7, PHP 8.3, Azure Cloud, and OpenSearch achieving 99.9% system uptime
+
+- Implemented asynchronous job processing with RabbitMQ, Symfony Messenger, and Node.js worker threads for bulk imports, ETL operations, and background tasks
+
+- Integrated cloud services including AWS S3, AWS EC2, Azure Blob Storage, and OpenSearch for asset management, CDN delivery, and full-text search
+
+- Worked with cross-functional teams including frontend developers, QA engineers, and product managers using Agile/Scrum with sprint planning and daily standups. Conducted code reviews via GitLab and mentored 2 junior developers
+
+KEY PROJECTS
+
+IGT Gaming Portal - Enterprise Gaming Platform
+Tech Stack: Pimcore 10, Symfony 6, Node.js 18, Express.js, Vue.js 2, MySQL 8.0, Docker, AWS (S3, EC2), Redis, JWT, OAuth 2.0
+
+- Developed 25+ RESTful API endpoints and scalable microservices architecture for lottery games, instant win games, draw games, user management, and promotional content management system
+
+- Built real-time game data processing using Node.js 18, Express.js, WebSocket protocol, and Server-Sent Events enabling live score updates and notifications for 50,000+ concurrent users
+
+- Implemented security features including JWT authentication, OAuth 2.0 authorization, role-based access control, session management, bcrypt password hashing, and CSRF protection
+
+- Integrated multiple payment gateway APIs (Stripe, PayPal, Razorpay) for secure transaction processing, refunds, webhooks, and PCI DSS compliance with error handling and logging
+
+- Optimized MySQL database queries using indexing strategies and implemented multi-layer Redis caching (page cache, data cache, session storage) resulting in 50% faster page load times
+
+- Deployed scalable cloud infrastructure using Docker, Docker Compose, AWS EC2 auto-scaling groups, Elastic Load Balancer, and CloudWatch monitoring for high availability
+
+Sicame Energy Platform - B2B Product Catalog
+Tech Stack: Pimcore 11, Symfony 6, Node.js 16, Express.js, MySQL 8.0, AWS (S3, Lambda), PDF.js, ELK Stack
+
+- Created automated ETL pipelines processing 50,000+ product records from CSV/XML files in AWS S3 using CRON jobs and AWS Lambda functions
+
+- Developed Node.js microservices with validation, transformation, business rules, and enrichment before MySQL insertion ensuring data integrity
+
+- Implemented PDF generation API using Node.js (PDFKit, Puppeteer) generating 10,000+ product datasheets, specifications, and certificates with custom templates and i18n support
+
+- Created 15+ RESTful API endpoints with Express.js for B2B integrations, ERP synchronization, inventory management, and product catalog updates with API documentation (Swagger/OpenAPI)
+
+- Executed Pimcore migration from version 5 to 11 with zero downtime, database schema migration, backward compatibility, and regression testing
+
+- Implemented monitoring using ELK Stack (Elasticsearch, Logstash, Kibana) for logging, error tracking, performance monitoring, and alerting in production
+
+Rewire - Enterprise Product Information Management System
+Tech Stack: Pimcore 12, Symfony 7, PHP 8.3, Node.js 20, Azure Cloud, OpenSearch 2.x, RabbitMQ 3.x, Redis
+
+- Developed PIM system managing 10,000+ SKUs with multi-language support (English, French, German), multi-channel publishing, version control, and workflow management
+
+- Created distributed microservices with Node.js 20, Express.js, and Docker for data synchronization across SAP ERP, Salesforce CRM, and Magento using APIs and message queues
+
+- Implemented asynchronous message queue system using RabbitMQ 3.x, Symfony Messenger component, and custom message handlers processing 100,000+ messages daily for bulk product imports, exports, price updates, and inventory synchronization
+
+- Designed event-driven architecture with Node.js using event emitters and pub/sub patterns for product updates, stock changes, price modifications, and notifications
+
+- Integrated Azure Blob Storage for Digital Asset Management storing 50,000+ product images, PDFs, and videos, and OpenSearch 2.x for full-text search with filters, facets, and autocomplete
+
+- Optimized application performance through code profiling, query optimization, Redis caching, CDN integration, and lazy loading achieving 30% faster search and 40% reduced API latency
+
+KEY ACHIEVEMENTS
+
+- Led Pimcore CMS migrations from version 5 to 11 for 3 projects maintaining backward compatibility, refactoring code, conducting testing, and achieving zero-downtime deployments
+
+- Developed 20+ reusable Symfony console commands and Node.js automation scripts for scheduled data imports, batch processing, CSV/XML parsing from AWS S3, data validation, transformation, and error handling
+
+- Architected distributed microservices with Node.js, Express.js, Docker, API Gateway pattern, and service discovery for modular backend services
+
+- Developed PDF generation system processing 10,000+ documents monthly using Symfony, Pimcore API, and Node.js (PDFKit, Puppeteer) with templates for datasheets and reports
+
+- Improved database performance 60% through schema optimization, denormalization strategies, composite indexing, query optimization, and connection pooling for MySQL databases serving gaming portals with 1M+ monthly active users
+
+- Created event-driven pipelines using Node.js Event Emitter, RabbitMQ, Symfony Messenger, and async workers for data synchronization, ETL operations, and webhook processing
+
+- Reduced API response time 40% by implementing multi-layer caching (Redis, Varnish), query optimization, lazy loading, pagination, and CDN integration
+
+EDUCATION
+
+Master of Computer Application
+JS University | 2025
+
+Bachelor of Computer Application
+Allahabad State University | 2019 - 2022
+
+ADDITIONAL INFORMATION
+
+- Self-taught Tabla enthusiast with passion for Indian classical music
+- Passionate about backend architecture, design patterns, and writing clean maintainable code
+- Continuous learner exploring software engineering best practices and emerging technologies
